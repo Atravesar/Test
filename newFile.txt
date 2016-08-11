@@ -2,3 +2,7 @@ I has just created this file
 I'm changing it....
 please stop change it.
 I finished.
+<<<<<<< HEAD
+=======
+first edit
+>>>>>>> 1349934... first
