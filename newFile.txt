@@ -3,6 +3,11 @@ I'm changing it....
 please stop change it.
 I finished.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 first edit
 >>>>>>> 1349934... first
+=======
+first edit
+second edit
+>>>>>>> fbf3c4a... second
