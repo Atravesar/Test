@@ -4,6 +4,7 @@ please stop change it.
 I finished.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 first edit
 >>>>>>> 1349934... first
@@ -11,3 +12,8 @@ first edit
 first edit
 second edit
 >>>>>>> fbf3c4a... second
+=======
+first edit
+second edit
+thirty edit
+>>>>>>> 5e2ea8dab65b62eb200a44aeb30af78c8c69c8c7
